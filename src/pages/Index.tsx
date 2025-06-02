@@ -46,7 +46,7 @@ const Index = () => {
         
         <div className="relative z-10 text-center space-y-6 px-4">
           <h1 className="text-5xl md:text-7xl font-bold text-white animate-fade-in">
-            Welcome to <span className="gradient-text">StreamScape</span>
+            Welcome to <span className="gradient-text">IzumiScape</span>
           </h1>
           <p className="text-xl md:text-2xl text-white/80 max-w-2xl mx-auto animate-fade-in">
             Discover, stream, and download the latest movies, series, and animations all in one place.
